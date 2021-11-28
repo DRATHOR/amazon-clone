@@ -10,7 +10,8 @@ function Header() {
         <div className="header">
           <Link to="/">
           <img className="header__logo" 
-          src={amazonLogo}/> 
+          src={amazonLogo}
+          alt=""/> 
           </Link>
           
           <div
